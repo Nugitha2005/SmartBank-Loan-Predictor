@@ -5,7 +5,9 @@ A desktop application designed to predict loan eligibility using Machine Learnin
 Overview
 This application takes user financial details (income, loan amount, credit history, etc.) and uses a **Random Forest Classifier** to determine if a loan should be approved or rejected. It then connects to the **Groq API (Llama 3)** to generate a professional explanation for the decision, simulating a real bank manager.
 
-key Features
+**Milestone:** This project marks my first practical implementation of Machine Learning algorithms, bridging the gap between theoretical Data Science concepts and real-world software development.
+
+Key Features
 * **Machine Learning Model:** Predicts loan status based on historical data.
 * **AI-Powered Insights:** Generates natural language explanations for every decision using the Groq API.
 * **GUI:** User-friendly interface built with Python Tkinter and designed in Figma.
@@ -17,7 +19,8 @@ Tech Stack
 * **AI Integration:** Groq API (Llama-3.3-70b-versatile)
 
 Acknowledgments & Credits
-* **Development:** Built by Nugitha Artigala as a Data Science & Software Engineering project.
+* **Development:** Built by [Your Name] as a Data Science & Software Engineering project.
+* **Learning Journey:** This repository serves as my first hands-on project using ML algorithms, demonstrating my ability to build and deploy predictive models.
 * **AI Assistance:** Special thanks to AI tools for providing guidance on integrating the **Groq API** and structuring the backend logic for the AI overview features.
 
 How to Run
@@ -25,4 +28,3 @@ How to Run
 2.  Install dependencies: `pip install pandas scikit-learn groq`
 3.  Add your Groq API Key in `gui.py`.
 4.  Run the application: `python gui.py`
-
