@@ -21,7 +21,7 @@ Tech Stack
 Acknowledgments & Credits
 * **Development:** Built by [Your Name] as a Data Science & Software Engineering project.
 * **Learning Journey:** This repository serves as my first hands-on project using ML algorithms, demonstrating my ability to build and deploy predictive models.
-* **AI Assistance:** Special thanks to AI tools for providing guidance on integrating the **Groq API** and structuring the backend logic for the AI overview features.
+
 
 How to Run
 1.  Clone the repository.
